@@ -1,4 +1,4 @@
-# 💫 About Me:
+# Hi, I'm Neha Kumari Baranwal
 i am currently working on a Twitter Clone<br>i am currently learning React, Node.js , tailwind CSS, and improving my full stack skills.<br>Ask me about JavaScript , node.js , express and MongoDB.<br>I enjoy debugging more than scrolling social media.
 
 
