@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Neha Kumari Baranwal</h1>
-<h3 align="center">Enthusiastic learner of web technologies | Committed to growth in software development</h3>
+<h3 align="center">Enthusiastic learner of web technologies | Committed to growth in software development and problem solver</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=neha-one&label=Profile%20views&color=0e75b6&style=flat" alt="neha-one" /> </p>
 
