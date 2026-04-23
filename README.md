@@ -1,6 +1,13 @@
-# Hi, I'm Neha Kumari Baranwal
-i am currently working on a Twitter Clone<br>i am currently learning React, Node.js , tailwind CSS, and improving my full stack skills.<br>Ask me about JavaScript , node.js , express and MongoDB.<br>I enjoy debugging more than scrolling social media.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=32&duration=1000&pause=1000&color=00F7FF&width=600&lines=Hi+i+am+Neha+Kumari+Baranwal" />
+</p>
 
+i am currently working on a Twitter Clone  
+i am currently learning React, Node.js, Tailwind CSS, and improving my full stack skills.  
+
+Ask me about JavaScript, Node.js, Express and MongoDB.  
+
+I enjoy debugging more than scrolling social media.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/neha-baranwal-9b2180340) 
