@@ -1,5 +1,6 @@
+<h2 Hi, I am Neha Kumari Baranwal
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=32&duration=1000&pause=1000&color=00F7FF&width=600&lines=Hi+i+am+Neha+Kumari+Baranwal" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=32&duration=1000&pause=1000&color=00F7FF&width=600&lines=MERN Stack Developer" />
 </p>
 
 i am currently working on a Twitter Clone  
